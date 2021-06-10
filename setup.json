@@ -1,0 +1,35 @@
+{
+    "classifiers": [
+      "Intended Audience :: Developers",
+      "Intended Audience :: Science/Research",
+      "License :: OSI Approved :: MIT License",
+      "Natural Language :: English",
+      "Programming Language :: Python :: 3 :: Only"
+    ],
+    "setup_requires": ["pytest-runner==2.11.1"],
+    "install_requires": [
+      "docker==2.5.1",
+      "ipykernel>=5.1.0",
+      "ipython>=7.3.0",
+      "jupyter>=1.0.0",
+      "jupyter-client>=5.2.4",
+      "matplotlib>=3.0.3",
+      "nbconvert>=5.4.1",
+      "nbformat>=4.4.0",
+      "nbparameterise>=0.3",
+      "pandas==0.24.2",
+      "pysam>=0.15.2",
+      "scikit-learn>=0.20.3",
+      "seaborn==0.9.0",
+      "chileup @ https://github.com/papaemmelab/hileup/archive/master.zip"
+    ],
+    "author": "Max F. Levine, Dylan Domenico",
+    "keywords": [],
+    "license": "BSD",
+    "name": "Shukla_Levine_Gundem",
+    "test_suite": "tests",
+    "long_description": "📘 learn more on `GitHub <https://github.com/papaemmelab/Shukla_Levine_Gundem>`_!",
+    "description": "",
+    "url": "https://github.com/papaemmelab/Shukla_Levine_Gundem"
+  }
+  
