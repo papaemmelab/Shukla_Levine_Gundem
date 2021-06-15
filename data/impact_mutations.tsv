@@ -1,0 +1,340 @@
+Individual ID	Gene	proteinChange	Oncotree	OncoKb Oncogenicity	Highest OncoKb Sensitive Level
+H158186	PDGFRA	Y288C	Neuroblastoma	Oncogenic	LEVEL_2B
+H159446	PRKD1	S218*	Neuroblastoma		
+H159446	EPHA5	Y502N	Neuroblastoma		
+H159446	PHOX2B	P290Sfs*70	Neuroblastoma	Likely Oncogenic	
+H159446	CSDE1	G397V	Neuroblastoma		
+H108333	PIK3CA	G118D		Oncogenic	LEVEL_1
+H195991	GRIN2A	S1059Y			
+H195991	GRIN2A	S81G			
+H195991	TSC1	G449D			
+H133675	ROS1	R2039C			
+H133675	KIT	D52N		Likely Oncogenic	LEVEL_1
+H133675	TP53	G105F		Likely Oncogenic	
+H133671	TSC1	R509*	Retinoblastoma	Likely Oncogenic	LEVEL_2B
+H133671	BCOR	R1261Gfs*33	Retinoblastoma	Likely Oncogenic	
+H133671	STAG2	K92R	Retinoblastoma		
+H135074	PAX5	R390H	Embryonal Rhabdomyosarcoma		
+H135074	BRD4	P750L	Embryonal Rhabdomyosarcoma		
+H135074	KIT	E270G	Embryonal Rhabdomyosarcoma		
+H133672	NF1	Y2285Tfs*5	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	LEVEL_4
+H133672	ZFHX3	R715*	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	
+H133672	NF1	D2033Vfs*4	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	LEVEL_4
+H133672	ABL1	H201Sfs*96	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H136433	TP53	V173M	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H136433	DICER1	G1708E	Osteoblastic Osteosarcoma		
+H136573	ARID1A	L2279P	Alveolar Rhabdomyosarcoma		
+H136574	CYSLTR2	G55E	Neuroblastoma		
+H136574	AXL	P301L	Neuroblastoma		
+H136574	GRIN2A	G939A	Neuroblastoma		
+H136574	DOT1L	X489_splice	Neuroblastoma		
+H136574	KMT2B	T186P	Neuroblastoma		
+H136574	MSH2	A600S	Neuroblastoma		
+H136574	ERBB4	Y875*	Neuroblastoma		
+H136574	TGFBR2	K355N	Neuroblastoma		
+H158223	RB1	Q383*	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H158223	SMARCB1	P74A	Chondroblastic Osteosarcoma		
+H158223	ARID2	S586C	Chondroblastic Osteosarcoma		
+H158223	BRIP1	H835L	Chondroblastic Osteosarcoma		
+H135420	DROSHA	E1147K	Desmoplastic Small-Round-Cell Tumor		
+H135420	STK11	L245H	Desmoplastic Small-Round-Cell Tumor		
+H196095	ARID1A	G609Rfs*8	Desmoplastic Small-Round-Cell Tumor	Likely Oncogenic	
+H134753	SMARCB1	R377H	Chondrosarcoma	Predicted Oncogenic	LEVEL_4
+H134753	EZH2	G79Dfs*2	Chondrosarcoma	Likely Oncogenic	
+H134753	AMER1	S691C	Chondrosarcoma		
+H134753	ATRX	N1310K	Chondrosarcoma		
+H135088	ALK	F1174L	Neuroblastoma	Oncogenic	LEVEL_2B
+H135088	BRCA2	E1879*	Neuroblastoma	Likely Oncogenic	LEVEL_2B
+H135088	KMT2B	G2247R	Neuroblastoma		
+H135088	MYCL	A272S	Neuroblastoma		
+H135088	IKZF1	V107G	Neuroblastoma		
+H134733	BRD4	E22K	Osteoblastic Osteosarcoma		
+H136375	TP53	X261_splice	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H136375	ZFHX3	S3631Y	Chondroblastic Osteosarcoma		
+H134755	ALK	R1275Q	Neuroblastoma	Oncogenic	LEVEL_2B
+H134757	TP53BP1	Q184H	Parosteal Osteosarcoma		
+H196232	ATM	L150F			
+H196232	RB1	L486F			
+H196232	MED12	Q2069P			
+H134738	AR	Q58L	Osteoblastic Osteosarcoma	Inconclusive	
+H134738	TP53	C275Y	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H134738	PTPRT	T737N	Osteoblastic Osteosarcoma		
+H134738	TNFAIP3	E88V	Osteoblastic Osteosarcoma		
+H134738	SOX17	G210D	Osteoblastic Osteosarcoma		
+H156407	TP53BP1	R1319C	Alveolar Rhabdomyosarcoma		
+H156407	MED12	G1807V	Alveolar Rhabdomyosarcoma		
+H135089	BRAF	G469A	Neuroblastoma	Oncogenic	LEVEL_4
+H135089	MITF	E419K	Neuroblastoma		
+H135089	PTPRS	P450A	Neuroblastoma		
+H135089	ATRX	R1739Hfs*8	Neuroblastoma	Likely Oncogenic	
+H135062	ARID1B	Q128_Q131del	Embryonal Rhabdomyosarcoma		
+H136633	NFE2L2	G31A	Hepatoblastoma	Oncogenic	
+H136633	CTNNB1	Y30_S33del	Hepatoblastoma	Predicted Oncogenic	
+H135421	TOP1	K742N	Neuroblastoma		
+H135421	MUTYH	X297_splice	Neuroblastoma	Likely Oncogenic	
+H135387	NBN	G301V	Chondroblastic Osteosarcoma		
+H135462	CHEK2	A392V	Cervical Clear Cell Carcinoma		
+H135462	WWTR1	S89W	Cervical Clear Cell Carcinoma		
+H135462	CREBBP	C1783Lfs*183	Cervical Clear Cell Carcinoma	Likely Oncogenic	
+H135462	RASA1	X868_splice	Cervical Clear Cell Carcinoma	Likely Oncogenic	
+H135462	RAC1	T25dup	Cervical Clear Cell Carcinoma		
+H135462	KMT2D	Q56R	Cervical Clear Cell Carcinoma		
+H135462	ERBB3	L1333P	Cervical Clear Cell Carcinoma		
+H135462	PALB2	D56Ifs*12	Cervical Clear Cell Carcinoma	Likely Oncogenic	
+H135462	KIT	W348C	Cervical Clear Cell Carcinoma		
+H135462	TET2	A289P	Cervical Clear Cell Carcinoma		
+H135462	MED12	P692L	Cervical Clear Cell Carcinoma		
+H135462	MED12	X742_splice	Cervical Clear Cell Carcinoma	Likely Oncogenic	
+H135973	BRCA2	L2106V	Neuroblastoma	Unknown	
+H136083	BRAF	V600E	Neuroblastoma	Oncogenic	LEVEL_2B
+H136083	ALK	R1275Q	Neuroblastoma	Oncogenic	LEVEL_2B
+H135076	PTPRS	T996M	Osteosarcoma		
+H135076	ASXL1	P808A	Osteosarcoma		
+H135076	EP300	A2259Pfs*20	Osteosarcoma	Likely Oncogenic	
+H135076	TERT	V419F	Osteosarcoma		
+H135076	PDGFRB	Q77L	Osteosarcoma		
+H135463	NOTCH2	R2298Sfs*15	Neuroblastoma	Likely Oncogenic	
+H135463	EPHA5	R356S	Neuroblastoma		
+H135463	NOTCH1	C1391Y	Neuroblastoma		
+H136648	KRAS	K117N	Neuroblastoma	Oncogenic	LEVEL_4
+H196445	ABRAXAS1	K94Ifs*21	Pineoblastoma		
+H135467	ALK	F1174L	Neuroblastoma	Oncogenic	LEVEL_2B
+H135467	ALK	R1275L	Neuroblastoma	Likely Oncogenic	LEVEL_2B
+H158180	SMARCA4	L1165H	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H135990	TP53	C277F	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H135990	RB1	X405_splice	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H135990	TERT	Promoter	Osteoblastic Osteosarcoma	Oncogenic	
+H135990	MTOR	D457E	Osteoblastic Osteosarcoma		
+H135990	PAK5	D500E	Osteoblastic Osteosarcoma		
+H136134	SOS1	R248H	Neuroblastoma		
+H136134	SHQ1	X312_splice	Neuroblastoma	Likely Oncogenic	
+H195922	KMT2D	A2875S	Neuroblastoma		
+H195922	PIK3CD	D820E	Neuroblastoma		
+H195922	KDM5A	A1128E	Neuroblastoma		
+H195922	KMT2D	A2133S	Neuroblastoma		
+H195922	RAD51C	L111P	Neuroblastoma		
+H195922	RPTOR	C362S	Neuroblastoma		
+H195922	ACVR1	K82N	Neuroblastoma		
+H195922	RTEL1	D1117E	Neuroblastoma		
+H195922	ROS1	F261Y	Neuroblastoma		
+H195922	IKZF1	C483Y	Neuroblastoma		
+H195922	CDKN1B	P122Lfs*24	Neuroblastoma	Likely Oncogenic	
+H195922	PDGFRA	X1041_splice	Neuroblastoma		
+H135967	TP53	R273H	Osteoblastic Osteosarcoma	Oncogenic	
+H135967	PIK3CA	K111N	Osteoblastic Osteosarcoma	Likely Oncogenic	LEVEL_2B
+H135967	ATM	D203G	Osteoblastic Osteosarcoma		
+H135967	TP53BP1	A1787V	Osteoblastic Osteosarcoma		
+H135967	GATA1	S178T	Osteoblastic Osteosarcoma		
+H136136	TP53	R248Q	Wilms' Tumor	Likely Oncogenic	
+H136136	EZH2	V490Gfs*30	Wilms' Tumor	Likely Oncogenic	
+H136062	TERT	Promoter	Ewing Sarcoma	Oncogenic	
+H136424	TP53	X126_splice	Wilms' Tumor	Likely Oncogenic	
+H136424	BCOR	E1464Rfs*20	Wilms' Tumor	Likely Oncogenic	
+H136425	NRAS	Q61L	Neuroblastoma	Oncogenic	LEVEL_3B
+H136425	NCOR1	P893S	Neuroblastoma		
+H136425	BRCA1	H1006Ifs*18	Neuroblastoma	Likely Oncogenic	LEVEL_2B
+H196899	ERBB3	P477S	Yolk Sac Tumor		
+H196899	BRAF	I551Yfs*27	Yolk Sac Tumor		
+H158182	CREBBP	X647_splice		Likely Oncogenic	
+H158182	SMARCA4	G212V			
+H158182	NOTCH1	R1586_V1599dup			
+H158183	TSC2	A1234T	Neuroblastoma		
+H158273	TSC1	L187P	Chondroblastic Osteosarcoma		
+H158273	TSC2	A971_A972delinsCF	Chondroblastic Osteosarcoma		
+H158273	ATRX	S797*	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H158184	CREBBP	S1767*	Neuroblastoma	Likely Oncogenic	
+H195990	EED	Y358C	Pilocytic Astrocytoma		
+H195990	ATRX	V1717G	Pilocytic Astrocytoma		
+H198662	ZFHX3	E2177K	Wilms' Tumor		
+H158493	TP53	R306*	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H158916	TP53	L257P	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H198333	TP53	C238F	Medulloblastoma	Likely Oncogenic	
+H198333	MAX	R60Q	Medulloblastoma	Predicted Oncogenic	
+H198333	PTCH1	A451Pfs*5	Medulloblastoma	Likely Oncogenic	LEVEL_3A
+H198333	MTOR	Y1070C	Medulloblastoma		
+H198333	AKT1	H265L	Medulloblastoma		
+H158918	CTNNB1	I35T		Likely Oncogenic	
+H158917	PIK3R2	D122N	Fibrolamellar Carcinoma		
+H158919	CASP8	D344N	Osteoblastic Osteosarcoma		
+H158919	ROS1	N692S	Osteoblastic Osteosarcoma		
+H159103	TERT	Promoter	Neuroblastoma	Oncogenic	
+H159103	ALK	F1245C	Neuroblastoma	Oncogenic	LEVEL_2B
+H159369	TP53	R342*	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H195920	EIF1AX	G9A		Predicted Oncogenic	
+H195920	DNMT1	A268V			
+H195920	SMARCA4	N1037K			
+H195916	TP53	R248W	Mucinous Ovarian Cancer	Likely Oncogenic	
+H195916	KRAS	G12D	Mucinous Ovarian Cancer	Oncogenic	LEVEL_4
+H159370	TP53	R248Q	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H159370	PRKN	E310*	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H159370	NBN	D596Y	Osteoblastic Osteosarcoma		
+H196231	RB1	F296Lfs*5	Retinoblastoma	Likely Oncogenic	
+H196231	PRDM14	M256I	Retinoblastoma		
+H196231	STK11	L184Rfs*107	Retinoblastoma	Likely Oncogenic	
+H196231	INPPL1	X282_splice	Retinoblastoma	Likely Oncogenic	
+H196231	MGA	P986Sfs*5	Retinoblastoma	Likely Oncogenic	
+H196231	RBM10	A201D	Retinoblastoma		
+H195921	TP53	R273H	Telangiectatic Osteosarcoma	Oncogenic	
+H195921	TP53	C141Y	Telangiectatic Osteosarcoma	Likely Oncogenic	
+H195921	TP53	G245D	Telangiectatic Osteosarcoma	Likely Oncogenic	
+H195921	TP53	C141*	Telangiectatic Osteosarcoma	Likely Oncogenic	
+H195992	EGFL7	R70K	Osteoblastic Osteosarcoma		
+H195989	ALK	G923E	Mixed Germ Cell Tumor		
+H195989	TP53BP1	R1567W	Mixed Germ Cell Tumor		
+H196046	ATRX	D1719H	Osteoblastic Osteosarcoma		
+H196388	RNF43	A629T			
+H196388	MED12	G2037D			
+H196388	PIK3CD	Q510del			
+H196227	SMARCA4	R1135W	Neuroblastoma	Predicted Oncogenic	
+H196227	ZFHX3	H1571L	Neuroblastoma		
+H196390	ARID1B	Q1820K	Neuroblastoma		
+H196429	KMT2D	E4834Kfs*24	Wilms' Tumor	Likely Oncogenic	
+H198664	NOTCH4	A1029T	Neuroblastoma		
+H196898	TP53	S303Afs*42	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H196807	CDH1	P373S	Neuroblastoma		
+H196807	SDHA	A575T	Neuroblastoma		
+H135062	BCOR	BCOR-intragenic	Embryonal Rhabdomyosarcoma	Oncogenic	
+H158180	RET	RET-SPECC1L fusion	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	LEVEL_2B
+H135022	BBC3	PDDC1-BBC3 fusion	Adrenocortical Carcinoma	Likely Oncogenic	
+H135022	GLI1	GLI1-intragenic	Adrenocortical Carcinoma		
+H135022	SIGLEC11	SIGLEC11-DOT1L fusion	Adrenocortical Carcinoma		
+H195921	INPP4A	INPP4A-intragenic	Telangiectatic Osteosarcoma		
+H158273	RB1	RB1-intragenic	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H158273	TSC2	TSC2-intragenic	Chondroblastic Osteosarcoma	Oncogenic	LEVEL_2B
+H136375	NOTCH3	NOTCH3-intragenic	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H136062	ERG	ERG-EWSR1 fusion	Ewing Sarcoma	Oncogenic	
+H158223	TCF3	TCF3-SESN1 fusion	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H134757	CDKN1A	CDKN1A-JARID2 fusion	Parosteal Osteosarcoma	Likely Oncogenic	
+H134753	SPEN	SPEN-RUNX2 fusion	Chondrosarcoma	Likely Oncogenic	
+H108333	ROS1	COL4A3BP-ROS1 fusion		Likely Oncogenic	LEVEL_1
+H135973	FGF4	FGF4-MEOX1 fusion	Neuroblastoma		
+H158917	RRAGC	RRAGC-intragenic	Fibrolamellar Carcinoma		
+H158183	XPO1	XPO1-intragenic	Neuroblastoma		
+H158917	SMAD2	SMAD2-intragenic	Fibrolamellar Carcinoma	Likely Oncogenic	
+H134738	JAK3	JAK3-intragenic	Osteoblastic Osteosarcoma		
+H134757	WWTR1	WWTR1-NPM1 fusion	Parosteal Osteosarcoma		
+H158493	ATM	ATM-intragenic	Osteoblastic Osteosarcoma	Likely Oncogenic	LEVEL_4
+H156418	NTRK3	NTRK3-SLMAP fusion - Archer	Neuroblastoma	Likely Oncogenic	LEVEL_1
+H196388	BRAF	BRAF-KIAA1549 fusion		Oncogenic	LEVEL_3A
+H158183	CDK12	CDK12-intragenic	Neuroblastoma	Likely Oncogenic	
+H135062	CD276	CD276-intragenic	Embryonal Rhabdomyosarcoma		
+H158182	CREBBP	CREBBP-COLCA2 fusion		Likely Oncogenic	
+H198664	NOTCH3	NOTCH3-BRD4 fusion	Neuroblastoma	Likely Oncogenic	
+H196095	WT1	WT1-EWSR1 fusion	Desmoplastic Small-Round-Cell Tumor	Oncogenic	
+H134757	TUBA1B	TUBA1B-KMT2D fusion	Parosteal Osteosarcoma		
+H136641	INPPL1	INPPL1-intragenic	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H135420	INPP4B	INPP4B-intragenic	Desmoplastic Small-Round-Cell Tumor	Likely Oncogenic	
+H158919	IDH2	IDH2-intragenic	Osteoblastic Osteosarcoma		
+H135420	WT1	WT1-EWSR1 fusion	Desmoplastic Small-Round-Cell Tumor	Oncogenic	
+H135022	ZNF132	ZNF132-KMT2B fusion	Adrenocortical Carcinoma		
+H135022	STK11IP	STK11IP-INHA fusion	Adrenocortical Carcinoma		
+H158919	NF2	NF2-intragenic	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H158223	TP53	TP53-intragenic	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H198333	MST1	MST1-intragenic	Medulloblastoma		
+H158917	PRKACA	PRKACA-DNAJB1 fusion	Fibrolamellar Carcinoma	Oncogenic	
+H158917	RASA1	RASA1-intragenic	Fibrolamellar Carcinoma	Likely Oncogenic	
+H195920	ATF1	ATF1-EWSR1 fusion		Likely Oncogenic	
+H134769	FLI1	FLI1-EWSR1 fusion	Ewing Sarcoma	Oncogenic	LEVEL_4
+H195991	SSX2	SSX2-EWSR1 fusion - Archer			
+H158151	TP53	TP53-intragenic	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H159369	ATR	ATR-intragenic	Chondroblastic Osteosarcoma	Likely Oncogenic	
+H135963	APC	S2581_A2584delinsKKKK	Chondrosarcoma		
+H136640	AR	G468_G473dup	Round Cell Sarcoma, NOS		
+H134202	RHOA	X137_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H136139	RHOA	X137_splice	Fibroblastic Osteosarcoma		
+H135073	ATM	E2039K	Malignant Peripheral Nerve Sheath Tumor		
+H134202	ATM	X2151_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	LEVEL_4
+H134202	ATR	F768_L770delinsYKK	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H136632	ATRX	M1596I	Malignant Rhabdoid Tumor of the Liver		
+H133674	BARD1	X122_splice	Hepatoblastoma	Likely Oncogenic	
+H136631	PRDM1	P352L	Renal Medullary Carcinoma		
+H136139	PRDM1	R296L	Fibroblastic Osteosarcoma		
+H133673	BLM	G1120E	Wilms' Tumor		
+H135963	BLM	X803_splice	Chondrosarcoma	Likely Oncogenic	
+H135963	BRAF	X665_splice	Chondrosarcoma		
+H134202	BRCA2	X3086_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	LEVEL_2B
+H133673	CREBBP	D1116Pfs*13	Wilms' Tumor	Likely Oncogenic	
+H156409	CREBBP	R2104H	Osteosarcoma		
+H133674	CTNNB1	G34R	Hepatoblastoma	Likely Oncogenic	
+H133674	DNMT1	A272P	Hepatoblastoma		
+H156409	EGFR	X336_splice	Osteosarcoma		
+H135073	EP300	X1048_splice	Malignant Peripheral Nerve Sheath Tumor	Likely Oncogenic	
+H135963	EPHA7	X55_splice	Chondrosarcoma	Likely Oncogenic	
+H135466	EPHA7	X55_splice	Immature Teratoma	Likely Oncogenic	
+H156409	EPHA7	X55_splice	Osteosarcoma	Likely Oncogenic	
+H135466	ERCC5	*1186*	Immature Teratoma		
+H135073	EZH2	D677V	Malignant Peripheral Nerve Sheath Tumor		
+H195923	GATA2	H165R	Osteoblastic Osteosarcoma		
+H195923	GRIN2A	A1057T	Osteoblastic Osteosarcoma		
+H133674	GRIN2A	K1107_K1116delinsFFFNDTATTE	Hepatoblastoma		
+H135963	GSK3B	X317_splice	Chondrosarcoma		
+H195923	MSH6	G124Rfs*12	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H136139	IFNGR1	E420*	Fibroblastic Osteosarcoma		
+H195923	IRF4	P226_E227delinsQK	Osteoblastic Osteosarcoma		
+H136631	MAP3K1	X790_splice	Renal Medullary Carcinoma	Likely Oncogenic	
+H135963	MAP3K1	X656_splice	Chondrosarcoma	Likely Oncogenic	
+H135073	MET	X465_splice	Malignant Peripheral Nerve Sheath Tumor		
+H135963	MRE11	E406K	Chondrosarcoma		
+H134202	MSH3	X265_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	
+H135073	MYCN	R357C	Malignant Peripheral Nerve Sheath Tumor		
+H134202	NF1	R816*	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	LEVEL_4
+H133673	NOTCH1	Q1722Afs*25	Wilms' Tumor	Oncogenic	
+H136640	NOTCH3	V1504L	Round Cell Sarcoma, NOS		
+H135963	PIK3C2G	K978N	Chondrosarcoma		
+H134202	PIK3C2G	X625_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H136139	PIK3CB	K510Q	Fibroblastic Osteosarcoma		
+H195923	PIK3CD	Y165C	Osteoblastic Osteosarcoma		
+H135466	PLCG2	A1178T	Immature Teratoma		
+H136631	PPARG	X160_splice	Renal Medullary Carcinoma		
+H135963	PPARG	X160_splice	Chondrosarcoma		
+H156409	PPARG	X160_splice	Osteosarcoma		
+H135073	MAPK1	X165_splice	Malignant Peripheral Nerve Sheath Tumor		
+H135963	MAPK1	X165_splice	Chondrosarcoma		
+H136631	PTPRD	K1502N	Renal Medullary Carcinoma		
+H136631	RAD21	X11_splice	Renal Medullary Carcinoma	Likely Oncogenic	
+H135963	RASA1	Y712_E715delinsKKKK	Chondrosarcoma		
+H135466	REL	X52_splice	Immature Teratoma		
+H133673	ROS1	C1327*	Wilms' Tumor		
+H135073	ROS1	X1285_splice	Malignant Peripheral Nerve Sheath Tumor		
+H135963	ROS1	X1881_splice	Chondrosarcoma		
+H134202	ROS1	X1881_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H135073	ROS1	X1881_splice	Malignant Peripheral Nerve Sheath Tumor		
+H136631	SMARCB1	A203Pfs*6	Renal Medullary Carcinoma	Likely Oncogenic	LEVEL_4
+H135066	SMARCB1	K199E	Schwannoma		
+H136139	SOS1	X837_splice	Fibroblastic Osteosarcoma		
+H133674	TNFAIP3	X269_splice	Hepatoblastoma	Likely Oncogenic	
+H195923	TP53	V173M	Osteoblastic Osteosarcoma	Likely Oncogenic	
+H135466	TP53	Y163H	Immature Teratoma	Likely Oncogenic	
+H136139	NSD2	X310_splice	Fibroblastic Osteosarcoma		
+H135073	NSD2	X310_splice	Malignant Peripheral Nerve Sheath Tumor		
+H156409	NSD2	X310_splice	Osteosarcoma		
+H135466	KMT2D	L4461P	Immature Teratoma		
+H135466	KMT2D	K3140Qfs*36	Immature Teratoma	Likely Oncogenic	
+H136631	NCOA3	X502_splice	Renal Medullary Carcinoma		
+H135466	NCOA3	X502_splice	Immature Teratoma		
+H135073	NCOA3	X502_splice	Malignant Peripheral Nerve Sheath Tumor		
+H134202	NCOA3	X502_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H135466	NCOR1	X392_splice	Immature Teratoma	Likely Oncogenic	
+H135963	MALT1	X680_splice	Chondrosarcoma		
+H135466	MALT1	X638_splice	Immature Teratoma		
+H136631	DICER1	Y1345_S1348delins*	Renal Medullary Carcinoma		
+H135073	DICER1	Y1345_S1348delins*	Malignant Peripheral Nerve Sheath Tumor		
+H136640	DICER1	Y1345_S1348delins*	Round Cell Sarcoma, NOS		
+H156409	DICER1	Y1345_S1348delins*	Osteosarcoma		
+H134202	DICER1	Y1345_S1348delinsKKKK	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H134202	DICER1	X882_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	
+H134202	DICER1	X1867_splice	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Likely Oncogenic	
+H135466	SUZ12	W591_E594delinsKKKK	Immature Teratoma		
+H133674	SUZ12	W591_E594delinsKKKK	Hepatoblastoma		
+H136139	DROSHA	X859_splice	Fibroblastic Osteosarcoma		
+H135963	PBRM1	X363_splice	Chondrosarcoma	Likely Oncogenic	
+H134202	ARID1B	A954S	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma		
+H135073	SMYD3	X200_splice	Malignant Peripheral Nerve Sheath Tumor		
+H136632	SMYD3	X200_splice	Malignant Rhabdoid Tumor of the Liver		
+H136631	SLX4	R154W	Renal Medullary Carcinoma		
+H136139	MSI2	A200S	Fibroblastic Osteosarcoma		
+H133674	AGO4	G598E	Hepatoblastoma		
+H135466	ARID2	G1709R	Immature Teratoma		
+H156409	NOTCH2NLA	P28T	Osteosarcoma		
+H159153	RTEL1-TNFRSF6B	F784del	Osteosarcoma		
+H136139	OS9	OS9-MAP2K1 fusion	Fibroblastic Osteosarcoma		

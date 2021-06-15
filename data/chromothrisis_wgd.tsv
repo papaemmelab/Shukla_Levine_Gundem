@@ -1,0 +1,115 @@
+sample	chromothripsis_events_n	chromothripsis_events_chrs	chromothripsis_loci	WGD	disease
+I-H-108333-T2-2-D1-1	0	none	none	no	Sarcoma
+I-H-133671-T1-2-D1-1	0	none	none	no	CNS tumor
+I-H-133672-T1-2-D1-1	0	none	none	yes	Sarcoma
+I-H-133673-T2-1-D1-1	0	none	none	yes	Wilms Tumor
+I-H-133674-T1-2-D1-1	0	none	none	no	Hepatoblastoma
+I-H-133675-T1-2-D1-1	0	none	none	no	Other
+I-H-133676-T1-1-D1-1	0	none	none	no	Carcinoma
+I-H-134202-T1-2-D1-1	0	none	none	no	Sarcoma
+I-H-134733-T3-2-D1-1	3	7_8,15_X,17_19	17p_loss	no	Sarcoma
+I-H-134753-T1-1-D1-1	0	none	none	no	Sarcoma
+I-H-134754-T1-1-D1-1	0	none	none	no	Sarcoma
+I-H-134755-T1-1-D1-1	0	none	none	yes	Neuroblastoma
+I-H-134756-T1-1-D1-1	1	1	MAN1A2-ACBD6_fusion	no	Sarcoma
+I-H-134757-T1-1-D1-1	2	1_2_12,3_5_6	CDKN1A_disruptive	yes	Sarcoma
+I-H-134769-T1-1-D1-2	0	none	none	no	Sarcoma
+I-H-135022-T1-2-D1-1	1	1_2_3_4_5_6_7_8_9_10_11_12_14_15_16_17_19_20_22	none	yes	Carcinoma
+I-H-135062-T1-1-D1-1	2	7,12	MET_amplification	yes	Sarcoma
+I-H-135066-T1-1-D1-1	0	none	none	no	Sarcoma
+I-H-135073-T1-2-D1-1	0	none	none	no	Sarcoma
+I-H-135074-T1-2-D1-1	1	2_7_8_12_14_20_22	MYC_amplification,MDM2_amplification	yes	Sarcoma
+I-H-135076-T1-1-D1-1	1	19	none	no	Sarcoma
+I-H-135088-T1-2-D1-1	1	11_17_19	DLG2_disruptive	yes	Neuroblastoma
+I-H-135089-T1-2-D1-1	0	none	none	no	Neuroblastoma
+I-H-135387-T1-1-D1-1	2	1,6_13	none	no	Sarcoma
+I-H-135393-T1-1-D1-1	0	none	none	no	Sarcoma
+I-H-135420-T1-2-D1-1	0	none	none	no	Sarcoma
+I-H-135421-T1-2-D1-1	0	none	none	no	Neuroblastoma
+I-H-135459-T1-2-D1-1	0	none	none	no	Sarcoma
+I-H-135463-T1-2-D1-1	0	none	none	no	Neuroblastoma
+I-H-135466-T1-2-D1-1	1	3	none	no	Germ cell tumor
+I-H-135467-T1-2-D1-1	0	none	none	yes	Neuroblastoma
+I-H-135963-T2-2-D1-1	0	none	none	no	Sarcoma
+I-H-135967-T1-2-D1-1	2	1_2_3_5_8_18,18	MYC_amplification	yes	Sarcoma
+I-H-135973-T1-2-D1-1	0	none	none	yes	Neuroblastoma
+I-H-135988-T1-2-D1-1	0	none	none	yes	Neuroblastoma
+I-H-135990-T1-1-D1-1	1	16_20	none	no	Sarcoma
+I-H-136062-T1-1-D1-1	1	8	none	no	Sarcoma
+I-H-136083-T1-2-D1-1	1	2	MYCN_amplification	no	Neuroblastoma
+I-H-136134-T1-1-D1-1	0	none	none	yes	Neuroblastoma
+I-H-136136-T1-1-D1-1	0	none	none	no	Wilms Tumor
+I-H-136139-T1-1-D1-1	1	1_2_5_6_7_8_10_11_12_15_16_17_21_22	MDM2_amplification,CDK4_amplification,17p_loss	no	Sarcoma
+I-H-136375-T1-1-D1-1	3	1,2,7	RAC1_amplification	no	Sarcoma
+I-H-136424-T1-1-D1-1	0	none	none	no	Wilms Tumor
+I-H-136425-T1-1-D1-1	0	none	none	no	Neuroblastoma
+I-H-136428-T1-1-D1-1	1	1_3_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21	CCNE1_amplification,TP53_disruptive	no	Sarcoma
+IID_H134738_T07_01_WG01	6	1_15,2,3_5_11_12_13_17,8,18_19_Y,19	DLG2_disruptive,RB1_disruptive,17p_loss	yes	Sarcoma
+IID_H134768_T02_01_WG01	1	2_6,12_17	PAX3-FOX3_fusion,MDM2_amplification,CDK4_amplification,CCND2_amplification	yes	Sarcoma
+IID_H135462_T02_01_WG01	4	1_8_10_20_21,1_8_12_19,3_8_10,2_4_8_19_20	MYC_amplification	yes	Carcinoma
+IID_H136433_T07_01_WG01	3	1_2_4_5_8_9_11_14_15_18_19_20_21,1_7,20	CCNE1_amplification,CDKN1A_disruptive	yes	Sarcoma
+IID_H136573_T05_01_WG01	0	none	none	no	Sarcoma
+IID_H136574_T05_01_WG01	1	5_7	TERT_SV	no	Neuroblastoma
+IID_H136631_T01_01_WG01	0	none	none	yes	Carcinoma
+IID_H136632_T01_01_WG01	3	4_9_15,16_X,17_X,5_X	none	yes	Sarcoma
+IID_H136633_T01_01_WG01	0	none	none	no	Hepatoblastoma
+IID_H136640_T01_01_WG01	0	none	none	no	Sarcoma
+IID_H136641_T01_01_WG01	1	1_3_4_5_6_7_8_10_11_12_13_14_17_18_19_20_21	CCND3_amplification,VEGFA_amplification,BRD4_amplification,TP53_disruptive	yes	Sarcoma
+IID_H136648_T01_01_WG01	0	none	none	yes	Neuroblastoma
+IID_H156407_T01_01_WG01	0	none	none	yes	Sarcoma
+IID_H156409_T01_01_WG01	1	1_2_3_4_5_6_7_8_9_10_12_13_14_16_17_19_20_22	VEGFA_amplification,MYC_amplification,TP53_disruptive	yes	Sarcoma
+IID_H156416_T01_01_WG01	0	none	none	no	Sarcoma
+IID_H156418_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H158151_T01_01_WG01	2	7,X	ATRX_disruptive	yes	Sarcoma
+IID_H158180_T01_01_WG01	0	none	none	no	Sarcoma
+IID_H158181_T01_01_WG01	0	none	none	no	Sarcoma
+IID_H158182_T01_01_WG01	0	none	none	no	Other
+IID_H158183_T01_01_WG01	1	5	TERT_SV	no	Neuroblastoma
+IID_H158184_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H158186_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H158223_T01_01_WG01	1	1_2_3_5_7_11_12_14_15_17_19_20_22	TP53_disruptive	yes	Sarcoma
+IID_H158271_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H158273_T01_01_WG01	3	3_7_11_17,2_6_7_16,5_7_8_9	TP53_disruptive	no	Sarcoma
+IID_H158493_T01_01_WG01	3	13_17,3_11,1	17p_loss	yes	Sarcoma
+IID_H158878_T01_01_WG01	0	none	none	yes	Sarcoma
+IID_H158880_T01_01_WG01	1	2_3_4_5_6_7_9_10_11_13_16_17_19_22	TP53_disruptive	no	Sarcoma
+IID_H158916_T01_01_WG01	1	4_7_8_11_16_17	MYC_amplification,17p_loss	no	Sarcoma
+IID_H158917_T01_01_WG01	0	none	none	no	Carcinoma
+IID_H158918_T01_01_WG01	0	none	none	no	Carcinoma
+IID_H158919_T01_01_WG01	3	19_X,9,2_3_6_7_8_13_17	TP53_disruptive,RB1_disruptive	no	Sarcoma
+IID_H159103_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H159153_T01_01_WG01	3	3,10_12_X,1_2_3_4_5_6_7_8_10_12_15_16_17_18_19_20	TP53_disruptive,ATRX_disruptive,CDK4_amplification	yes	Sarcoma
+IID_H159369_T01_01_WG01	3	1_7_13_16,1_3_5_8_12_19_21,2_17_X	none	yes	Sarcoma
+IID_H159370_T01_01_WG01	1	1_2_3_4_6_7_9_10_11_12_13_14_15_16_17_18_19_21_22	CCND3_amplification,VEGFA_amplification,CDKN2A_disruptive,17p_loss	yes	Sarcoma
+IID_H159371_T01_01_WG01	0	none	none	yes	Neuroblastoma
+IID_H159446_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H195916_T01_01_WG01	3	9,12,19	CDKN2A_disruptive	yes	Germ cell tumor
+IID_H195918_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H195920_T02_01_WG01	0	none	none	no	Sarcoma
+IID_H195921_T01_01_WG01	2	9,1_2_3_6_7_8_10_11_15_16_17_19_20_22	CDKN2A_disruptive,AURKA_amplification	yes	Sarcoma
+IID_H195922_T01_01_WG01	1	7	none	yes	Neuroblastoma
+IID_H195923_T01_01_WG01	3	1,1_2_4_6_7_8_9_10_12_13_16_18_19,7	MYC_amplification,VEGFA_amplification,17p_loss	yes	Sarcoma
+IID_H195989_T01_01_WG01	0	none	none	no	Germ cell tumor
+IID_H195990_T01_01_WG01	0	none	none	no	CNS tumor
+IID_H195991_T01_01_WG01	1	6	none	no	Sarcoma
+IID_H195992_T02_01_WG01	1	1_2_3_4_6_7_10_11_12_17_18_21_22	TP53_disruptive	yes	Sarcoma
+IID_H196046_T01_01_WG01	1	1_3_5_6_7_15_17_19	TP53_disruptive,CDKN1A_disruptive,CCND3_amplification,VEGFA_amplification	no	Sarcoma
+IID_H196094_T01_01_WG01	0	none	none	no	Sarcoma
+IID_H196095_T01_01_WG01	0	none	none	no	Sarcoma
+IID_H196227_T01_01_WG01	0	none	none	yes	Neuroblastoma
+IID_H196231_T01_01_WG01	0	none	none	no	CNS tumor
+IID_H196232_T01_01_WG01	0	none	none	yes	Sarcoma
+IID_H196388_T01_01_WG01	1	17	none	no	CNS tumor
+IID_H196390_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H196429_T01_01_WG01	0	none	none	no	Wilms Tumor
+IID_H196445_T01_01_WG01	0	none	none	yes	CNS tumor
+IID_H196807_T01_01_WG01	1	3_7_14	none	no	Neuroblastoma
+IID_H196848_T01_01_WG01	0	none	none	no	Other
+IID_H196898_T01_01_WG01	2	4_13_17,1_2_3_4_6_9_13_14_15_16_19_21_22	9p_loss	yes	Sarcoma
+IID_H196899_T01_01_WG01	0	none	none	no	Germ cell tumor
+IID_H197215_T01_01_WG01	0	none	none	no	CNS tumor
+IID_H197217_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H198333_T01_01_WG01	0	none	none	no	CNS tumor
+IID_H198662_T01_01_WG01	0	none	none	no	Wilms Tumor
+IID_H198663_T01_01_WG01	0	none	none	no	Neuroblastoma
+IID_H198664_T01_01_WG01	0	none	none	no	Neuroblastoma
