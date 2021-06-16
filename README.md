@@ -6,7 +6,7 @@
 
 - **`data/`**: this directory contains the dataframes necessary to reproduce the results of the study.
 
-- **`notebooks/`**: this directory contains notebooks for generating figures and dataframes.
+- **`notebooks/`**: this directory contains notebooks for generating figures and subsampled bams.
 
 
 ## :rocket: Getting started with this repository
