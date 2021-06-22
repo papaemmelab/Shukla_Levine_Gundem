@@ -22,6 +22,14 @@ $ git clone https://github.com/papaemmelab/Shukla_Levine_Gundem
 ```
 
 Install with pip.
-
-    cd Shukla_Levine_Gundem
-    pip install -r requirements.txt
+```
+cd Shukla_Levine_Gundem
+pip install -r requirements.txt
+```
+### :notebook: View and run notebooks
+It is recommended to view and execute the included notebooks using [JupyterLab](https://jupyter.org/).
+```
+cd notebooks
+jupyter lab
+```
+The notebooks can then be selected from the top left in the file browser.

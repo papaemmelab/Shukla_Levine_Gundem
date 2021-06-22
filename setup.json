@@ -13,6 +13,7 @@
       "ipython>=7.3.0",
       "jupyter>=1.0.0",
       "jupyter-client>=5.2.4",
+      "jupyterlab>=3.0.0",
       "matplotlib==3.0.3",
       "nbconvert>=5.4.1",
       "nbformat>=4.4.0",
@@ -35,4 +36,4 @@
     "description": "",
     "url": "https://github.com/papaemmelab/Shukla_Levine_Gundem"
   }
-  
+
