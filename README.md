@@ -11,6 +11,8 @@
 
 ## :rocket: Getting started with this repository
 
+Tested with Python 3.6.5
+
 ### Clone the repository
 
 To clone this repository on your local computer please run:

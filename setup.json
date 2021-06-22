@@ -17,14 +17,14 @@
       "nbconvert>=5.4.1",
       "nbformat>=4.4.0",
       "nbparameterise>=0.3",
+      "numpy==1.16.3",
       "pandas==0.24.2",
       "pysam>=0.15.2",
       "scikit-learn>=0.20.3",
       "statannot==0.2.3",
       "statsmodels>=0.9.0",
       "seaborn==0.10.1",
-      "xlrd==1.0.0",
-      "chileup @ https://github.com/papaemmelab/hileup/archive/master.zip"
+      "xlrd==1.0.0"
     ],
     "author": "Max F. Levine, Dylan Domenico",
     "keywords": [],
